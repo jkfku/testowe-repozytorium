@@ -5,4 +5,3 @@ def count_vowels(word):
         if i in vowels:
             counter += 1
     return counter
-
